@@ -9,13 +9,12 @@ body{
     width: 100vh;
     height: 75vh;
 }
-.body{
+.wrapper{
     background-color: rgba(255, 255, 255, 0.479);
     position: relative;
     width: 600px;
     height: 300px;
     margin: 25% 50%;
-    
 }
 h1{
     text-align: center;
@@ -30,9 +29,11 @@ table{
     background-color: wheat;
     color: white;
     text-shadow: 2px 2px 35px #000;
+    padding-left: 10px;
 }
 .all{
     background-color: rgba(238, 130, 238, 0.787);
     color: white;
     text-shadow: 2px 2px 35px #000;
+    padding-left: 10px;
 }
